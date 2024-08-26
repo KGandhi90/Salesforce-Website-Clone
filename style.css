@@ -21,6 +21,7 @@ html,body{
     align-items: center;
     color: #032d60;
     background-color: white;
+    z-index: 3;
 }
 #header2{
     height: 15vh;
