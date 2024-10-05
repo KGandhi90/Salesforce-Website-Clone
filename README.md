@@ -1,7 +1,7 @@
 # Salesforce Website Clone
 
 
-In this project I have tried make a small clone of Salesforce Website.
+In this project I have tried make a small clone of Salesforce Website. I have made only the frontend of the website.
 
 Languages used in this Project :
 - HTML
