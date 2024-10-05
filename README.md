@@ -8,4 +8,4 @@ Languages used in this Project :
 - CSS
 
 Here you can view my Project :
-[Salesforce Website Clone](https://salesforce-website-clone.vercel.app/)
+[Salesforce Website Clone](https://salesforce-website-clone.vercel.app/){:target="_blank"}
